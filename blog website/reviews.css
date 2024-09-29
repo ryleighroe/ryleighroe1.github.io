@@ -1,0 +1,112 @@
+body{
+    background-color:#CFDAD5;
+    color:#292F28;
+}
+*{box-sizing:border-box;}
+head{
+    background-color:#CFDAD5;
+    color:#E8DEEA;
+}
+h1{
+    background-color:#9FA29A; color:#E8DEEA;
+    font-size:2em;
+    background-repeat:no-repeat; height:150px;
+    margin-top:0; 
+    text-align:center;
+    line-height:400%;
+    text-transform:lowercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style:solid;
+    border-width:3px;
+    border-color:#6C8D7D;
+}
+h2{
+    color:#E8DEEA;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+h3{
+    color:#E8DEEA;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    font-size:x-large;
+}
+h3 a{
+    text-decoration:none;
+    list-style-type: none;
+}
+h4{
+    color:#E8DEEA;
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+main{
+    text-align:center;
+    background-color:#9FA29A;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left:2%;
+    padding-right:2%;
+    padding-bottom:2%;
+    padding-top:2%;
+    display:block;
+    border-style:solid;
+    border-width:3px;
+    border-color:#6C8D7D;
+}
+nav a{
+    padding:1.5em;
+    font-weight:lighter;
+    font-size:100%;
+    float:none;
+    Width:160px;
+    text-decoration:none;
+}
+nav ul{
+    list-style-type:none;
+    font-size:1.2em; 
+    margin:0;
+    padding-left:0;
+    font-style:italic;
+    text-decoration:none;
+    color:#E8DEEA;
+    text-align:center;
+    padding-bottom: 10px;
+    line-height:30px;
+}
+nav li{
+    display:inline;
+    padding-right:10px;
+}
+a:link{
+    color:#292F28;
+}
+a:visited{
+    color:#6C8D7D;
+}
+a:hover{
+    color:#E8DEEA;
+}
+#wrapper{
+    background-position:center;
+    width:80%;
+    background-color:#CFDAD5;
+    max-width: 2048px;
+    min-width: 960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+footer{
+    font-size:75%;
+    font-style:italic;
+    text-align:center;
+    padding:2em;
+    margin-left:190px;
+    background-color:#CFDAD5;
+    color:#292F28;
+}
